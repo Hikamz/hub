@@ -1,0 +1,6 @@
+requests>=2.31.0
+colorama>=0.4.6
+termcolor>=2.4.0
+pyperclip>=1.8.2
+pytz>=2024.1
+urllib3>=2.2.1
